@@ -17,6 +17,15 @@ function App() {
             <input type="text" />
           </div>
           <button>cliock me</button>
+          <ul>
+            <li>item</li>
+            <li>item</li>
+            <li>item</li>
+            <li>item</li>
+            <p>Lorem ipsum dolor sit amet.</p>
+            <button>text</button>
+          </ul>
+          <h2>Title</h2>
         </form>
       </>
     </div>
